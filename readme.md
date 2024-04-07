@@ -29,17 +29,17 @@ By selecting the subway line and the stations where the trip starts and ends, th
 
 The API is requested every 3 minutes:
 
-![Data_ingestion][1_data_ingestion.png]
+![Data_ingestion](1_data_ingestion.png)
 
 ### App
 
 There are 3 steps:
 - Selection of the line:
 
-![Data_ingestion][2_line.png]
+![Data_ingestion](2_line.png)
 - Selection of the departure station:
 
-![Data_ingestion][3_from.png]
+![Data_ingestion](3_from.png)
 - Selection of the destination:
 
-![Data_ingestion][4_to.png]
+![Data_ingestion](4_to.png)
