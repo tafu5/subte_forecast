@@ -28,21 +28,26 @@ By selecting the subway line and the stations where the trip starts and ends, th
 ### Data Ingestion
 
 The API is requested every 3 minutes:
+<img width="841" alt="1_data_ingestion" src="https://github.com/tafu5/subte_forecast/assets/55017296/662bcfec-93ef-41ab-8195-c8908547e7ba">
 
-![Data_ingestion](../1_data_ingestion.png)
 
 ### App
 
 There are 3 steps:
 - Selection of the line:
 
-![Line](../2_line.png)
+<img width="558" alt="2_line" src="https://github.com/tafu5/subte_forecast/assets/55017296/568c8ae6-078c-4646-9021-61a4764cc5ff">
+
 - Selection of the departure station:
 
-![station from](../3_from.png)
+<img width="547" alt="3_from" src="https://github.com/tafu5/subte_forecast/assets/55017296/128fef30-fbc9-4b1f-bbbb-5e89dfab9682">
+
+
 - Selection of the destination:
 
-![station to](../4_to.png)
+<img width="546" alt="4_to" src="https://github.com/tafu5/subte_forecast/assets/55017296/67aa6aec-1de4-424a-a560-e6669bf9b2e4">
 
 #### Results:
-![results](/Users/user/Desktop/Projects/subte/5_results.png)
+<img width="847" alt="5_results" src="https://github.com/tafu5/subte_forecast/assets/55017296/0e6c5bbd-f743-41f2-858a-a132aa3e88c2">
+
+
