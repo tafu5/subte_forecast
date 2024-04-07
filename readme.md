@@ -43,3 +43,6 @@ There are 3 steps:
 - Selection of the destination:
 
 ![station to](../4_to.png)
+
+#### Results:
+![results](../5_results.png)
